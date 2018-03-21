@@ -1,0 +1,3 @@
+SIRV403	pseudogene
+SIRV306	pseudogene
+SIRV704	pseudogene
